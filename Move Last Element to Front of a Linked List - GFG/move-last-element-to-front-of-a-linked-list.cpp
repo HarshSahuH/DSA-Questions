@@ -28,6 +28,8 @@ public:
         ListNode *SecondLast=NULL;
         ListNode *Last=head;
         
+        
+        // last ko last node pr hi rok do , usse null pr mt jane do 
         while(Last->next != NULL){
             SecondLast = Last;
             Last = Last->next;

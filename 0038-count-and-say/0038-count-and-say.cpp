@@ -1,31 +1,29 @@
 class Solution {
 public:
     string countAndSay(int n) {
-      //base case 
-        if(n==1) 
-            return "1";
-        if(n==2)
-            return "11";
         
-        string s ="11";
-        
-        for(int i=3; i<=n; i++){
-            string ans = "";
-            s=s+"e";
-            int count =1;
-            for(int j=1; j<s.length(); j++){
-                if(s[j]!=s[j-1]){
-                    ans = ans + to_string(count);
-                    ans = ans + s[j-1];
-                    count = 1;
+        string ans="1";
+        int cnt = 0;
+        for(int i=2; i<=n; i++)
+        {
+            string temp="";
+            int cnt = 1; 
+            for(int j=0; j<ans.size(); j++)
+            {
+                if(j < ans.size() - 1 && ans[j] == ans[j+1])
+                {
+                    cnt++;
                 }
-                else{
-                   count ++;
+                else
+                {
+                   temp +=(cnt+'0');
+                   temp +=ans[j];
+                   cnt = 1;
                 }
-                
             }
-            s = ans ;
+            ans = temp;      
         }
-        return s; 
+
+        return ans;
     }
 };

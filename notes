@@ -1,0 +1,29 @@
+std::string str = "world, hello!";
+std::size_t pos = str.find("hello");
+if (pos != std::string::npos) {
+    std::cout << "Substring found at position " << pos << std::endl;
+} else {
+    std::cout << "Substring not found." << std::endl;
+}
+
+
+If the substring "hello" is found in the string, the find() function will return the index of the first
+character of the substring in the string (in this case, pos will be equal to 7). If the substring is not
+found, the function will return string::npos, which is a special value indicating that the substring was 
+not found in the string. In this case, the code will output "Substring not found.".
+
+
+
+
+
+
+string::npos is a constant static member of the std::string class in C++. It represents the largest
+possible value for a size_t variable, which is a type used for storing the size of objects in memory.
+
+In the find() function of a std::string, the function returns the position of the first occurrence
+of a specified substring within the string, or string::npos if the substring is not found.
+
+For example, if we have a string str and we want to find the position of the
+substring "hello" within it, we can use the find() function as follows:
+
+

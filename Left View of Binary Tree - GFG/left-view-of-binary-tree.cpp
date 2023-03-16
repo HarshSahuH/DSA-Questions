@@ -135,6 +135,7 @@ void solve(Node *root,vector<int> &ans,int level){
     
     if(ans.size() == level)
     {
+        //agr vector ka size = level it means we entre new level
         ans.push_back(root->data);
     }
     

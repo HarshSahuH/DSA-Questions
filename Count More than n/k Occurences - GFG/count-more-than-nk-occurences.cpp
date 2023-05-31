@@ -13,15 +13,15 @@ class Solution
     int countOccurence(int arr[], int n, int k) {
         int count = 0;
         unordered_map<int,int> m;
+        int x = n/k;
       
         for(int i=0; i<n; i++){
-          m[arr[i]]++;
-         }
-      
-        for(int i=0; i<m.size(); i++){
-          if( m[i] > n/k ){
-              count++;
-          }
+            m[arr[i]]++;
+            if(m[arr[i]]>x){
+                count++;
+                //taki woh dubara hamare count ko na bada paye 
+                m[arr[i]]=-10000;
+            }
         }
         return count;
     }

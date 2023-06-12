@@ -20,3 +20,5 @@ public:
         return false;  // No rotation found
     }
 };
+
+//T.C. O(N) s.c. O(1)

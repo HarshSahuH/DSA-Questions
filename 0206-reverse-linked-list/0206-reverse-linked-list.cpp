@@ -9,19 +9,26 @@
  * };
  */
 class Solution {
+    
+     ListNode* reverseHelper(ListNode* curr, ListNode* newHead)
+     {
+        if (curr == nullptr) {
+            return newHead;
+        }
+        
+        ListNode* next = curr->next;
+        curr->next = newHead;
+        
+        return reverseHelper(next, curr);
+    }
+    
 public:
+    
     ListNode* reverseList(ListNode* head) {
+        
         if(head == NULL || head->next == NULL) return head;
         
-        ListNode* newhead = NULL;
+        return reverseHelper(head , NULL);
         
-        while(head != NULL)
-        {
-            ListNode* next = head->next;
-            head->next = newhead;
-            newhead = head;
-            head = next;   
-        }
-    return newhead;
     }
 };

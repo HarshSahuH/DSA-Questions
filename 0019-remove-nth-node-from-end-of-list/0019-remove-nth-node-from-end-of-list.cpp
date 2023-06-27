@@ -8,42 +8,25 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
-//T.C. O(2n) S.C. O(1) by stiver
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
+     //T.C. O(n) S.C. O(1)
+        ListNode* start = new ListNode();
+        start->next = head;
+        ListNode* slow = start;
+        ListNode* fast = start;
         
-        
-        //find length of list
-        int sz = 0;
-        ListNode* temp = head;
-        while(temp != NULL )
-        {
-            sz = sz+1;
-            temp = temp->next;
+        for(int i=0; i<n; i++){
+            fast = fast->next;
         }
         
-        //edge case 
-        if(sz == n)
-        {
-          ListNode* node = head;
-          head = head->next;
-          delete (node);
-          return head;  
+        while(fast->next != NULL){
+            slow = slow->next;
+            fast = fast->next;
         }
         
-        
-        ListNode* del = head;
-        int substraction = sz-n;
-        for(int i=1; i< substraction; i++){
-            del = del->next;
-        }
-        
-        ListNode* temp1 = del->next;
-        del->next = del->next->next;
-        delete temp1;
-        
-        return head;
+        slow->next = slow->next->next;
+        return start->next;
     }
 };

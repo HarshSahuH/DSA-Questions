@@ -2,18 +2,17 @@ class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
         
-        //Approach 1 T.C. O(N) S.C.(N)
-        set<int> val;
-        for(int i=0; i<nums.size(); i++)
-        {
-            val.insert(nums[i]);
-        }
+        //Approach 2 T.C. O(N) S.C.(1)
         
-        int index = 0; 
-        for(auto it : val)
+        int i=0;
+        for(int j=1 ; j<nums.size(); j++)
         {
-          nums[index++] = it;   
+            if(nums[i] != nums[j]){
+                //that means this is unique element form privious one
+                nums[i+1] = nums[j];
+                i++;
+            }
         }
-        return index;
+        return i+1;
     }
 };

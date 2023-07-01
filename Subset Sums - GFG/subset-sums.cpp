@@ -12,11 +12,12 @@ class Solution
             return;
         }
         
+        //not Selecting the element 
+        Helper(index + 1, sum, arr, N, SumSubset);
         //selecting the element
         Helper(index + 1, sum + arr[index],arr, N, SumSubset);
         
-        //not Selecting the element 
-        Helper(index + 1, sum, arr, N, SumSubset);
+
     }
 public:
     vector<int> subsetSums(vector<int> arr, int N)
@@ -24,7 +25,7 @@ public:
         vector<int> SumSubset;
         
         Helper(0,0,arr,N,SumSubset);
-        sort(SumSubset.begin(),SumSubset.end());
+        //sort(SumSubset.begin(),SumSubset.end());
         return SumSubset;
     }
 };

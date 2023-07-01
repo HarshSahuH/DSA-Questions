@@ -30,7 +30,7 @@ public:
     }
 };
 
-//T.C. O(2^N) + O(2^N log 2^N) = O(2^N log 2^N)
+//T.C. O(2^N)  = O(2^N)
 //S.C. O(2^N)
 
 

@@ -11,30 +11,24 @@ class Solution{
 public:
     void segregate0and1(int arr[], int n) {
         
-        int zeros = 0;
-        int ones = 0;
-        for(int i=0; i<n; i++)
+        int left = 0, right = n-1;
+        
+        while(left < right)
         {
-            if(arr[i] == 0)
-            zeros++;
-            else 
-            ones++;
+            while(arr[left] == 0 && left < right)
+            left++;
+            
+            while(arr[right] == 1 && left < right)
+            right--;
+            
+            if(left < right)
+            {
+                arr[left++] = 0;
+                arr[right--] = 1;
+            }
         }
         
-        int i=0;
-        while(zeros)
-        {
-            arr[i] = 0; 
-            i++;
-            zeros--;
-        }
         
-        while(ones)
-        {
-            arr[i] = 1;
-            i++;
-            ones--;
-        }
     }
 };
 

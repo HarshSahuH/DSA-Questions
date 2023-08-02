@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    int countNodes(struct TreeNode* root) {
+    int countNodes(TreeNode* root) {
         
         if(root == NULL)
             return 0;

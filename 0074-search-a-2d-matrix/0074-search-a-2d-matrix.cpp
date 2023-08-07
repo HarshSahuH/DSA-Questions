@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
-       
         int rows = matrix.size();
         int cols = matrix[0].size();
 
@@ -21,6 +20,6 @@ public:
             low=mid+1;
         }
         
-        return false ;
+        return false ; 
     }
 };

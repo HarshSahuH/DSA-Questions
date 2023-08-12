@@ -12,21 +12,23 @@
 class Solution {
 public:
     TreeNode* searchBST(TreeNode* root, int val){
+    
+        //itrative way T.C. O(log n) S.C. O(1)
         
-    if(root == NULL){ 
-     return NULL;
-    }
-     
-    if(root->val == val){
-        return root;
-    }
+        TreeNode* temp = root;
+        
+        while(temp != NULL)
+        {
+            if(temp->val == val)
+                return temp;
+            
+            if(temp->val > val)
+                temp = temp->left;
+            
+            else 
+                temp = temp->right;
+        }
     
-    if(val < root->val){
-        return searchBST(root->left,val);
-    }
-    
-    else{
-        return searchBST(root->right,val);
-    }
+        return NULL;
  } 
 };

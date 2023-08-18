@@ -24,6 +24,7 @@ class Solution {
     }
 public:
     bool isValidBST(TreeNode* root) {
+        cout<<LLONG_MIN<<endl<<LLONG_MAX<<endl;
         return helper(root, LLONG_MIN, LLONG_MAX);
     }
 };

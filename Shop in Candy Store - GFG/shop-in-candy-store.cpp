@@ -3,6 +3,7 @@
 using namespace std; 
 
 // } Driver Code Ends
+
 class Solution
 {
 public:
@@ -30,14 +31,11 @@ public:
             freeCandy += K;
         }
       
-      vector<int> result;
-      result.push_back(miniCost);
-      result.push_back(maxiCost);
-      return result;
+      return {miniCost,maxiCost};
     }
 };
 
-//T.C. O(N) + O(N) 
+//T.C. O(NlogN) + O(N) + O(N) 
 //S.C. O(1)
 
 //{ Driver Code Starts.

@@ -7,10 +7,7 @@ class Solution {
     long long GCD(long long A, long long B){
         
         if(A==0) return B;
-        else if(B==0) return A;
-        else if(A==B) return A;
-        else if(A>B) return GCD(A-B,B);
-        else return GCD(A,B-A);          //if (B>A) return GCD(A,B-A)
+	    return GCD(B%A,A);
     }
     
     long long LCM(long long A,long long B){

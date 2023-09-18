@@ -1,26 +1,24 @@
 class Solution {
-    int gcd(int a, int b)
-    {
-        //eukelidean  method 
-        if(a == 0) return b;
-        if(b == 0) return a;
-        if(a == b) return a;
+    int GCD(int A,int B){
+        //if(A==0) return B;
+        //else if(B==0) return A;
+        //else if(A==B) return A;
+        //else if(A>B) return GCD(A-B,B);
+        //else return GCD(A,B-A);
         
-        if(a>b) 
-            return gcd(a-b,b);
-        return gcd(a,b-a);
+        if(A==0) return B;
+        return GCD(B%A,A);
     }
+    
 public:
     int findGCD(vector<int>& nums) {
-        int small = INT_MAX;
-        int large = INT_MIN;
         
-        for(int i=0; i<nums.size(); i++)
-        {
-            if(nums[i] < small) small = nums[i];
-            if(nums[i] > large) large = nums[i];
+        int smallest = INT_MAX, largest = INT_MIN;
+        for(int i=0; i<nums.size(); i++){
+            smallest = min(smallest,nums[i]);
+            largest = max(largest,nums[i]);
         }
         
-        return gcd(small,large);  
+        return GCD(smallest,largest); 
     }
 };

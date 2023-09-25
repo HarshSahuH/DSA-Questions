@@ -1,21 +1,12 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        char ans;
-        unordered_map<char,int> mp;
-        for(int i=0; i<s.size(); i++){
-            mp[s[i]]++;
-        }
+        int sumofAsciiS = 0;
+        int sumofAsciiT = 0;
         
-        for(int i=0; i<t.size(); i++){
-            if(mp.find(t[i]) != mp.end() && mp[t[i]] != 0){
-                mp[t[i]]--;
-            }
-            else{
-                ans = t[i];
-            }
-        }
-        return ans;
-       
+        for(char c : s) sumofAsciiS += c;
+        for(char c : t) sumofAsciiT += c;
+        
+        return sumofAsciiT - sumofAsciiS;
     }
 };

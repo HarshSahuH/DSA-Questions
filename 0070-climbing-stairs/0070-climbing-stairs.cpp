@@ -13,3 +13,10 @@ public:
         return dp[n];
     }
 };
+
+//Recursive Code
+        //Base Condition
+        //if(n<=2) return n;
+        
+        //choice diagram
+        //return climbStairs(n-1) + climbStairs(n-2);

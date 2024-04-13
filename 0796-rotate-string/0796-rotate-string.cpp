@@ -1,24 +1,15 @@
 class Solution {
 public:
     bool rotateString(string s, string goal) {
-        if (s.length() != goal.length()) return false;
-        
-        if (s.empty()) return true;  // Both strings are empty, consider it as a rotation
-        
-        int n = s.length();
-        for (int i = 0; i < n; i++) {
-            if (s[i] == goal[0]) {
-                int j = 0;
-                while (j < n && s[(i + j) % n] == goal[j]) {
-                    j++;
-                }
-                
-                if (j == n) return true;  // Found a rotation
-            }
+        if(s.size() != goal.size()){
+            return false;
         }
         
-        return false;  // No rotation found
+        string twiceS = s + s;
+        
+        if(twiceS.find(goal) != -1){
+            return true;
+        }
+        return false;
     }
 };
-
-//T.C. O(N) s.c. O(1)

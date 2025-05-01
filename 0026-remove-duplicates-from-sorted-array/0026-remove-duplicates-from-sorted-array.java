@@ -1,6 +1,6 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        
+        //Two Pointer Approach
         int current = 1;
         int counter = 0;
         for(int i=1; i<nums.length; i++){

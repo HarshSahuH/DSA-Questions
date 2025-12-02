@@ -21,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/HarshSahuH/DSA-Questions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/HarshSahuH/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/HarshSahuH/DSA-Questions/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
@@ -34,4 +35,9 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/HarshSahuH/DSA-Questions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/HarshSahuH/DSA-Questions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/HarshSahuH/DSA-Questions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

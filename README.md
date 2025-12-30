@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/HarshSahuH/DSA-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/HarshSahuH/DSA-Questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/HarshSahuH/DSA-Questions/tree/master/0048-rotate-image) |
+| [0840-magic-squares-in-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/0840-magic-squares-in-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,10 +27,12 @@
 | [0054-spiral-matrix](https://github.com/HarshSahuH/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/HarshSahuH/DSA-Questions/tree/master/0075-sort-colors) |
 | [0704-binary-search](https://github.com/HarshSahuH/DSA-Questions/tree/master/0704-binary-search) |
+| [0840-magic-squares-in-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/0840-magic-squares-in-grid) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0001-two-sum) |
+| [0840-magic-squares-in-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/0840-magic-squares-in-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -39,6 +42,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/HarshSahuH/DSA-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HarshSahuH/DSA-Questions/tree/master/0054-spiral-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/0840-magic-squares-in-grid) |
 ## Simulation
 |  |
 | ------- |

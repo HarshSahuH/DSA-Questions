@@ -1,18 +1,30 @@
 class Solution {
     public int findPeakElement(int[] nums) {
         int n = nums.length;
-        int peak = Integer.MIN_VALUE;
-        int peakIndex = 0;
 
-        for(int i=1; i<=n-2; i++){
-            if(nums[i] > nums[i-1] && nums[i] > nums[i+1]){
-                peak = Math.max(peak,nums[i]);
-                peakIndex = i;
+        if(n == 1) return 0;
+        if(nums[0]>nums[1]) return 0; // think in left at nums[-1] -infinity 
+        if(nums[n-1] > nums[n-2]) return n-1; //think in right at nums[n] - infinity
+
+        int low = 1;
+        int high = n-2;
+
+        while(low <= high){
+            int mid = low + (high - low)/2;
+
+            if(nums[mid] > nums[mid+1] && nums[mid] > nums[mid-1]){
+                return mid;
             }
-        }
+            else if(nums[mid] > nums[mid-1]){
+                //incrrasing curve peak must be on right side
+                low = mid + 1;
+            }
+            else  // decreasing curve peak must be left side 
+            {
+                high = mid -1;
+            }
 
-        if(nums[0] > nums[peakIndex]) return 0;
-        else if (nums[n-1] > nums[peakIndex]) return n-1;
-        else return peakIndex;
+        }
+        return -1;
     }
 }

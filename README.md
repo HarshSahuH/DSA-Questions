@@ -15,6 +15,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/HarshSahuH/DSA-Questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/HarshSahuH/DSA-Questions/tree/master/0125-valid-palindrome) |
+| [0876-middle-of-the-linked-list](https://github.com/HarshSahuH/DSA-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/HarshSahuH/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/HarshSahuH/DSA-Questions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

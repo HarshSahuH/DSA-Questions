@@ -38,6 +38,7 @@
 | [0840-magic-squares-in-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/0840-magic-squares-in-grid) |
 | [0875-koko-eating-bananas](https://github.com/HarshSahuH/DSA-Questions/tree/master/0875-koko-eating-bananas) |
 | [1390-four-divisors](https://github.com/HarshSahuH/DSA-Questions/tree/master/1390-four-divisors) |
+| [3637-trionic-array-i](https://github.com/HarshSahuH/DSA-Questions/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |

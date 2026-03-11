@@ -28,6 +28,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/HarshSahuH/DSA-Questions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/HarshSahuH/DSA-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HarshSahuH/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/HarshSahuH/DSA-Questions/tree/master/0075-sort-colors) |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/HarshSahuH/DSA-Questions/tree/master/0876-middle-of-the-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->

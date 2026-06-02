@@ -41,6 +41,7 @@
 | [0840-magic-squares-in-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/0840-magic-squares-in-grid) |
 | [0875-koko-eating-bananas](https://github.com/HarshSahuH/DSA-Questions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0912-sort-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/HarshSahuH/DSA-Questions/tree/master/1390-four-divisors) |
 | [3637-trionic-array-i](https://github.com/HarshSahuH/DSA-Questions/tree/master/3637-trionic-array-i) |
 ## Hash Table
@@ -49,6 +50,7 @@
 | [0001-two-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0001-two-sum) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshSahuH/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0840-magic-squares-in-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/0840-magic-squares-in-grid) |
+| [1331-rank-transform-of-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshSahuH/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0912-sort-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 ## Matrix
 |  |
 | ------- |

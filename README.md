@@ -37,6 +37,7 @@
 | [0162-find-peak-element](https://github.com/HarshSahuH/DSA-Questions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/HarshSahuH/DSA-Questions/tree/master/0704-binary-search) |
 | [0840-magic-squares-in-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/0840-magic-squares-in-grid) |
 | [0875-koko-eating-bananas](https://github.com/HarshSahuH/DSA-Questions/tree/master/0875-koko-eating-bananas) |
@@ -49,6 +50,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0001-two-sum) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshSahuH/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
 | [0840-magic-squares-in-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/0840-magic-squares-in-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
@@ -57,6 +59,7 @@
 | [0075-sort-colors](https://github.com/HarshSahuH/DSA-Questions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshSahuH/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 ## Matrix
@@ -91,6 +94,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshSahuH/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -101,6 +105,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/HarshSahuH/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
 ## Linked List
 |  |
 | ------- |
@@ -130,4 +135,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0912-sort-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->

@@ -40,6 +40,7 @@
 | [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/HarshSahuH/DSA-Questions/tree/master/0704-binary-search) |
 | [0840-magic-squares-in-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/0840-magic-squares-in-grid) |
+| [0846-hand-of-straights](https://github.com/HarshSahuH/DSA-Questions/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/HarshSahuH/DSA-Questions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -52,6 +53,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/HarshSahuH/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
 | [0840-magic-squares-in-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/0840-magic-squares-in-grid) |
+| [0846-hand-of-straights](https://github.com/HarshSahuH/DSA-Questions/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
@@ -60,6 +62,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshSahuH/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/HarshSahuH/DSA-Questions/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 ## Matrix
@@ -139,4 +142,5 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/HarshSahuH/DSA-Questions/tree/master/0846-hand-of-straights) |
 <!---LeetCode Topics End-->

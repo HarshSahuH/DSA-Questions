@@ -17,7 +17,7 @@ class Solution {
                 i++;
             }
             else{
-                // One train departs, platform freed
+                // One train departs, platform freed dep[j] < arr[i]
                 platformNeeded--;
                 j++;
             }

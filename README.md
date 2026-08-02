@@ -35,6 +35,7 @@
 | [0055-jump-game](https://github.com/HarshSahuH/DSA-Questions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/HarshSahuH/DSA-Questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarshSahuH/DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0135-candy](https://github.com/HarshSahuH/DSA-Questions/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HarshSahuH/DSA-Questions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -147,6 +148,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/HarshSahuH/DSA-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HarshSahuH/DSA-Questions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/HarshSahuH/DSA-Questions/tree/master/0135-candy) |
 | [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/HarshSahuH/DSA-Questions/tree/master/0846-hand-of-straights) |
 <!---LeetCode Topics End-->

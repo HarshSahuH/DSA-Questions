@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/HarshSahuH/DSA-Questions/tree/master/0146-lru-cache) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshSahuH/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
 | [0840-magic-squares-in-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/0840-magic-squares-in-grid) |
@@ -117,6 +118,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/HarshSahuH/DSA-Questions/tree/master/0146-lru-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/HarshSahuH/DSA-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Backtracking
 |  |
@@ -151,4 +153,12 @@
 | [0135-candy](https://github.com/HarshSahuH/DSA-Questions/tree/master/0135-candy) |
 | [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/HarshSahuH/DSA-Questions/tree/master/0846-hand-of-straights) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/HarshSahuH/DSA-Questions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/HarshSahuH/DSA-Questions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

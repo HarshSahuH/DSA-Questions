@@ -1,60 +1,66 @@
-class Pair{
+class Node{
     int key; 
     int value;
+    Node prev;
+    Node next;
 
-    Pair(int key, int value){
+    Node(int key, int value){
         this.key = key;
         this.value = value;
     }
 }
+
 class LRUCache {
     int cap;
-    ArrayList<Pair> cache = new ArrayList<>();
+    HashMap<Integer,Node> cache = new HashMap<>();
+    Node head = new Node(-1,-1);
+    Node tail = new Node(-1,-1);
 
     public LRUCache(int capacity) {
        this.cap = capacity;
+       head.next = tail;
+       tail.prev = head;
     }
     
-    public int get(int key) {
-        int index = -1;
-        for(int i=0; i<cache.size(); i++){
-            if(cache.get(i).key == key){
-                index = i;
-            }
-        }
-        //If we dont find key in our cache db then return -1
-        if(index == -1){
-            return -1;
-        }
+    public void remove(Node node){
+        node.prev.next = node.next;
+        node.next.prev = node.prev; 
+    }
 
-        Pair temp = cache.get(index);
-        //delet kr do yaha se aur last mein add kr do taki ye wala recent update ho jayega
-        cache.remove(index);
-        //wapas add kr do
-        cache.add(temp);
-        // key ki value return kr do 
-        return temp.value;
+    public void insertAtFront(Node node){
+        node.next = head.next; 
+        node.prev = head;
+        head.next.prev = node; 
+        head.next = node;
+    }
+
+    public int get(int key) {
+        if(!cache.containsKey(key)){
+           return -1; 
+        }
+        Node node = cache.get(key);
+        remove(node);           // detach from current position
+        insertAtFront(node);     // move to front (most recently used)
+        return node.value;
     }
     
     public void put(int key, int value) {
-        int idx = -1;
-        for (int i = 0; i < cache.size(); i++) {
-            if (cache.get(i).key == key) {
-                idx = i;
-                break;
-            }
-        }
-
-        if (idx != -1) {
+        if (cache.containsKey(key)) {
             // key exists: update value, move to end (most recently used)
-            cache.remove(idx);
-            cache.add(new Pair(key, value));
+            Node node = cache.get(key);
+            node.value = value;
+            remove(node);
+            insertAtFront(node);
         } else {
             // key doesn't exist: evict least-recently-used (front) if full, then insert
             if (cache.size() >= cap) {
-                cache.remove(0);
+                Node lru = tail.prev;
+                remove(lru);
+                cache.remove(lru.key);
             }
-            cache.add(new Pair(key, value));
+            Node newNode = new Node(key, value);
+            insertAtFront(newNode);
+            cache.put(key, newNode);
         }
     }
 }

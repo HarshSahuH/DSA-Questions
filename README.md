@@ -33,6 +33,7 @@
 | [0048-rotate-image](https://github.com/HarshSahuH/DSA-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HarshSahuH/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/HarshSahuH/DSA-Questions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/HarshSahuH/DSA-Questions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/HarshSahuH/DSA-Questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarshSahuH/DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0135-candy](https://github.com/HarshSahuH/DSA-Questions/tree/master/0135-candy) |

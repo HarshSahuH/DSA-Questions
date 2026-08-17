@@ -33,6 +33,7 @@
 | [0048-rotate-image](https://github.com/HarshSahuH/DSA-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HarshSahuH/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/HarshSahuH/DSA-Questions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/HarshSahuH/DSA-Questions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/HarshSahuH/DSA-Questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarshSahuH/DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -63,6 +64,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/HarshSahuH/DSA-Questions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshSahuH/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -162,4 +164,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HarshSahuH/DSA-Questions/tree/master/0146-lru-cache) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

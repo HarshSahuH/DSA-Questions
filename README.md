@@ -41,6 +41,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HarshSahuH/DSA-Questions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0416-partition-equal-subset-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/HarshSahuH/DSA-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HarshSahuH/DSA-Questions/tree/master/0055-jump-game) |
+| [0416-partition-equal-subset-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Heap (Priority Queue)
@@ -172,4 +174,12 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/0056-merge-intervals) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->

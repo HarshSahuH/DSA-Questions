@@ -10,6 +10,7 @@
 | [0069-sqrtx](https://github.com/HarshSahuH/DSA-Questions/tree/master/0069-sqrtx) |
 | [0840-magic-squares-in-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/HarshSahuH/DSA-Questions/tree/master/1390-four-divisors) |
+| [3870-count-commas-in-range](https://github.com/HarshSahuH/DSA-Questions/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
 |  |
 | ------- |

@@ -42,6 +42,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HarshSahuH/DSA-Questions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0322-coin-change](https://github.com/HarshSahuH/DSA-Questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0494-target-sum) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/HarshSahuH/DSA-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HarshSahuH/DSA-Questions/tree/master/0055-jump-game) |
+| [0322-coin-change](https://github.com/HarshSahuH/DSA-Questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0494-target-sum) |
@@ -181,6 +183,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/HarshSahuH/DSA-Questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -188,4 +191,12 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0494-target-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/HarshSahuH/DSA-Questions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/HarshSahuH/DSA-Questions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

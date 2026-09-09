@@ -47,6 +47,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/HarshSahuH/DSA-Questions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/HarshSahuH/DSA-Questions/tree/master/0704-binary-search) |
@@ -111,6 +112,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/HarshSahuH/DSA-Questions/tree/master/0518-coin-change-ii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -187,6 +189,7 @@
 | [0322-coin-change](https://github.com/HarshSahuH/DSA-Questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/HarshSahuH/DSA-Questions/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -200,4 +203,5 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/HarshSahuH/DSA-Questions/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/HarshSahuH/DSA-Questions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->

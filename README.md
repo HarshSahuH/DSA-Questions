@@ -23,6 +23,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/HarshSahuH/DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshSahuH/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [1143-longest-common-subsequence](https://github.com/HarshSahuH/DSA-Questions/tree/master/1143-longest-common-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0435-non-overlapping-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/HarshSahuH/DSA-Questions/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/HarshSahuH/DSA-Questions/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -204,4 +206,8 @@
 | ------- |
 | [0322-coin-change](https://github.com/HarshSahuH/DSA-Questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/HarshSahuH/DSA-Questions/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/HarshSahuH/DSA-Questions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

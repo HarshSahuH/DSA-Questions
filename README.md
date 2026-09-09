@@ -11,6 +11,7 @@
 | [0840-magic-squares-in-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/HarshSahuH/DSA-Questions/tree/master/1390-four-divisors) |
 | [3870-count-commas-in-range](https://github.com/HarshSahuH/DSA-Questions/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/HarshSahuH/DSA-Questions/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
 |  |
 | ------- |

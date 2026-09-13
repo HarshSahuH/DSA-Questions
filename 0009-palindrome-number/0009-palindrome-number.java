@@ -1,19 +1,19 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        
-        int copyOfX = x;
-        int reverseOfX = 0;
 
-        while(copyOfX > 0){
-            int digit = copyOfX % 10;
-            reverseOfX = reverseOfX * 10 + digit;
-            copyOfX /= 10;
-        }
-        if(x == reverseOfX){
-            return true; 
+        String num = String.valueOf(x);
+
+        int left = 0;
+        int right = num.length()-1;
+
+        while(left < right){
+            if(num.charAt(left) == num.charAt(right)){
+                left++;
+                right--;
+            }else{
+                return false;
             }
-        else{
-            return false;
         }
+        return true;
     }
 }

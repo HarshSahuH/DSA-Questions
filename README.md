@@ -58,6 +58,7 @@
 | [0912-sort-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/HarshSahuH/DSA-Questions/tree/master/1390-four-divisors) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HarshSahuH/DSA-Questions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HarshSahuH/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3637-trionic-array-i](https://github.com/HarshSahuH/DSA-Questions/tree/master/3637-trionic-array-i) |
@@ -84,6 +85,7 @@
 | [0846-hand-of-straights](https://github.com/HarshSahuH/DSA-Questions/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HarshSahuH/DSA-Questions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |

@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/HarshSahuH/DSA-Questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/HarshSahuH/DSA-Questions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/HarshSahuH/DSA-Questions/tree/master/0069-sqrtx) |
+| [0836-rectangle-overlap](https://github.com/HarshSahuH/DSA-Questions/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/HarshSahuH/DSA-Questions/tree/master/1390-four-divisors) |
 | [2485-find-the-pivot-integer](https://github.com/HarshSahuH/DSA-Questions/tree/master/2485-find-the-pivot-integer) |
@@ -231,4 +232,8 @@
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/HarshSahuH/DSA-Questions/tree/master/2485-find-the-pivot-integer) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/HarshSahuH/DSA-Questions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

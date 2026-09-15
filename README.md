@@ -20,12 +20,14 @@
 | [0075-sort-colors](https://github.com/HarshSahuH/DSA-Questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/HarshSahuH/DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0876-middle-of-the-linked-list](https://github.com/HarshSahuH/DSA-Questions/tree/master/0876-middle-of-the-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshSahuH/DSA-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/HarshSahuH/DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshSahuH/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1143-longest-common-subsequence](https://github.com/HarshSahuH/DSA-Questions/tree/master/1143-longest-common-subsequence) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshSahuH/DSA-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Array
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 | [0518-coin-change-ii](https://github.com/HarshSahuH/DSA-Questions/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/HarshSahuH/DSA-Questions/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshSahuH/DSA-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Heap (Priority Queue)
 |  |
@@ -183,6 +186,7 @@
 | [0435-non-overlapping-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/HarshSahuH/DSA-Questions/tree/master/0846-hand-of-straights) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshSahuH/DSA-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Design
 |  |
 | ------- |

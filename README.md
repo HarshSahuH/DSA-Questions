@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/HarshSahuH/DSA-Questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/HarshSahuH/DSA-Questions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/HarshSahuH/DSA-Questions/tree/master/0069-sqrtx) |
+| [0728-self-dividing-numbers](https://github.com/HarshSahuH/DSA-Questions/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/HarshSahuH/DSA-Questions/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/HarshSahuH/DSA-Questions/tree/master/1390-four-divisors) |

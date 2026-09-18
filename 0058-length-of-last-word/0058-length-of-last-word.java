@@ -3,8 +3,6 @@ class Solution {
         int n = s.length();
         int lengthOfLastWord = 0;
 
-        int fromEndLetterStart = n - 1;
-
         if (s.charAt(n - 1) == ' ') {
             while (s.charAt(n - 1) == ' ') {
                 n--;

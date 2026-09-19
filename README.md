@@ -12,6 +12,7 @@
 | [0836-rectangle-overlap](https://github.com/HarshSahuH/DSA-Questions/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/HarshSahuH/DSA-Questions/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/HarshSahuH/DSA-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HarshSahuH/DSA-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2485-find-the-pivot-integer](https://github.com/HarshSahuH/DSA-Questions/tree/master/2485-find-the-pivot-integer) |
 | [3870-count-commas-in-range](https://github.com/HarshSahuH/DSA-Questions/tree/master/3870-count-commas-in-range) |
@@ -251,6 +252,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/HarshSahuH/DSA-Questions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/HarshSahuH/DSA-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |

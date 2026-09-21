@@ -69,6 +69,7 @@
 | [1390-four-divisors](https://github.com/HarshSahuH/DSA-Questions/tree/master/1390-four-divisors) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HarshSahuH/DSA-Questions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1929-concatenation-of-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1929-concatenation-of-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HarshSahuH/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/HarshSahuH/DSA-Questions/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/HarshSahuH/DSA-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |

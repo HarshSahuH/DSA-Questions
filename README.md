@@ -61,6 +61,7 @@
 | [0518-coin-change-ii](https://github.com/HarshSahuH/DSA-Questions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/HarshSahuH/DSA-Questions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/HarshSahuH/DSA-Questions/tree/master/0704-binary-search) |
 | [0840-magic-squares-in-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/HarshSahuH/DSA-Questions/tree/master/0846-hand-of-straights) |
@@ -83,6 +84,7 @@
 | [0146-lru-cache](https://github.com/HarshSahuH/DSA-Questions/tree/master/0146-lru-cache) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshSahuH/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/HarshSahuH/DSA-Questions/tree/master/0645-set-mismatch) |
 | [0840-magic-squares-in-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/HarshSahuH/DSA-Questions/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -98,6 +100,7 @@
 | [0435-non-overlapping-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshSahuH/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/HarshSahuH/DSA-Questions/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/HarshSahuH/DSA-Questions/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -267,4 +270,8 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/HarshSahuH/DSA-Questions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->

@@ -56,6 +56,7 @@
 | [0322-coin-change](https://github.com/HarshSahuH/DSA-Questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
+| [0485-max-consecutive-ones](https://github.com/HarshSahuH/DSA-Questions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/HarshSahuH/DSA-Questions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |

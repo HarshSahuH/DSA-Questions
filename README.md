@@ -69,6 +69,7 @@
 | [0875-koko-eating-bananas](https://github.com/HarshSahuH/DSA-Questions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HarshSahuH/DSA-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/HarshSahuH/DSA-Questions/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -90,6 +91,7 @@
 | [0840-magic-squares-in-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/HarshSahuH/DSA-Questions/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HarshSahuH/DSA-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HarshSahuH/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -106,6 +108,7 @@
 | [0846-hand-of-straights](https://github.com/HarshSahuH/DSA-Questions/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HarshSahuH/DSA-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HarshSahuH/DSA-Questions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
@@ -199,6 +202,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HarshSahuH/DSA-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
 | ------- |

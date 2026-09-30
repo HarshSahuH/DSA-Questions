@@ -60,6 +60,7 @@
 | [0322-coin-change](https://github.com/HarshSahuH/DSA-Questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/HarshSahuH/DSA-Questions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/HarshSahuH/DSA-Questions/tree/master/0518-coin-change-ii) |
@@ -88,6 +89,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/HarshSahuH/DSA-Questions/tree/master/0146-lru-cache) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshSahuH/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/HarshSahuH/DSA-Questions/tree/master/0645-set-mismatch) |

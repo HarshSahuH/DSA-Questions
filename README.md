@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HarshSahuH/DSA-Questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/HarshSahuH/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/HarshSahuH/DSA-Questions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/HarshSahuH/DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshSahuH/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -147,6 +148,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HarshSahuH/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/HarshSahuH/DSA-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HarshSahuH/DSA-Questions/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/HarshSahuH/DSA-Questions/tree/master/0322-coin-change) |
@@ -185,6 +187,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HarshSahuH/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0494-target-sum) |
 ## Divide and Conquer
@@ -297,6 +300,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HarshSahuH/DSA-Questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/HarshSahuH/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HarshSahuH/DSA-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HarshSahuH/DSA-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HarshSahuH/DSA-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

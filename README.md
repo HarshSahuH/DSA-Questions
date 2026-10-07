@@ -32,6 +32,7 @@
 | [0022-generate-parentheses](https://github.com/HarshSahuH/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/HarshSahuH/DSA-Questions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/HarshSahuH/DSA-Questions/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/HarshSahuH/DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshSahuH/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HarshSahuH/DSA-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/HarshSahuH/DSA-Questions/tree/master/1143-longest-common-subsequence) |
@@ -189,6 +190,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarshSahuH/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0039-combination-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/HarshSahuH/DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0494-target-sum) |
 ## Divide and Conquer
 |  |
@@ -249,6 +251,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/HarshSahuH/DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/HarshSahuH/DSA-Questions/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |

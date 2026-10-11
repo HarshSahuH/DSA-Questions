@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/HarshSahuH/DSA-Questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/HarshSahuH/DSA-Questions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/HarshSahuH/DSA-Questions/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/HarshSahuH/DSA-Questions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/HarshSahuH/DSA-Questions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/HarshSahuH/DSA-Questions/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/HarshSahuH/DSA-Questions/tree/master/0836-rectangle-overlap) |
@@ -145,6 +146,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarshSahuH/DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HarshSahuH/DSA-Questions/tree/master/0162-find-peak-element) |
+| [0367-valid-perfect-square](https://github.com/HarshSahuH/DSA-Questions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/HarshSahuH/DSA-Questions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/HarshSahuH/DSA-Questions/tree/master/0704-binary-search) |

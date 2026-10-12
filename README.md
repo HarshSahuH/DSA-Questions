@@ -88,6 +88,7 @@
 | [1929-concatenation-of-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1929-concatenation-of-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/HarshSahuH/DSA-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HarshSahuH/DSA-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HarshSahuH/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HarshSahuH/DSA-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -107,6 +108,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HarshSahuH/DSA-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HarshSahuH/DSA-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HarshSahuH/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -232,6 +234,7 @@
 | [0846-hand-of-straights](https://github.com/HarshSahuH/DSA-Questions/tree/master/0846-hand-of-straights) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HarshSahuH/DSA-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshSahuH/DSA-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HarshSahuH/DSA-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Design
 |  |
 | ------- |
@@ -301,6 +304,7 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/HarshSahuH/DSA-Questions/tree/master/0645-set-mismatch) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HarshSahuH/DSA-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Stack
 |  |
 | ------- |

@@ -93,6 +93,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/HarshSahuH/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HarshSahuH/DSA-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3637-trionic-array-i](https://github.com/HarshSahuH/DSA-Questions/tree/master/3637-trionic-array-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/HarshSahuH/DSA-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HarshSahuH/DSA-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HarshSahuH/DSA-Questions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/HarshSahuH/DSA-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HarshSahuH/DSA-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshSahuH/DSA-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HarshSahuH/DSA-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/HarshSahuH/DSA-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Design
 |  |
 | ------- |

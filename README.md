@@ -18,6 +18,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HarshSahuH/DSA-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2485-find-the-pivot-integer](https://github.com/HarshSahuH/DSA-Questions/tree/master/2485-find-the-pivot-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HarshSahuH/DSA-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/HarshSahuH/DSA-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/HarshSahuH/DSA-Questions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/HarshSahuH/DSA-Questions/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
@@ -237,6 +238,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HarshSahuH/DSA-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshSahuH/DSA-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HarshSahuH/DSA-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/HarshSahuH/DSA-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HarshSahuH/DSA-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Design
 |  |

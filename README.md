@@ -81,6 +81,7 @@
 | [0846-hand-of-straights](https://github.com/HarshSahuH/DSA-Questions/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/HarshSahuH/DSA-Questions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0912-sort-an-array) |
+| [1267-count-servers-that-communicate](https://github.com/HarshSahuH/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HarshSahuH/DSA-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/HarshSahuH/DSA-Questions/tree/master/1390-four-divisors) |
@@ -141,6 +142,7 @@
 | [0048-rotate-image](https://github.com/HarshSahuH/DSA-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HarshSahuH/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/0840-magic-squares-in-grid) |
+| [1267-count-servers-that-communicate](https://github.com/HarshSahuH/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 ## Simulation
 |  |
 | ------- |
@@ -198,6 +200,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/HarshSahuH/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
+| [1267-count-servers-that-communicate](https://github.com/HarshSahuH/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 ## Linked List
 |  |
 | ------- |
@@ -275,6 +278,7 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/HarshSahuH/DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/HarshSahuH/DSA-Questions/tree/master/0322-coin-change) |
+| [1267-count-servers-that-communicate](https://github.com/HarshSahuH/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -349,6 +353,7 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/HarshSahuH/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/HarshSahuH/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -357,4 +362,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/HarshSahuH/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/HarshSahuH/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->

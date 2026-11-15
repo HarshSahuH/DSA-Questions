@@ -15,6 +15,7 @@
 | [0840-magic-squares-in-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/HarshSahuH/DSA-Questions/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HarshSahuH/DSA-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HarshSahuH/DSA-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2485-find-the-pivot-integer](https://github.com/HarshSahuH/DSA-Questions/tree/master/2485-find-the-pivot-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HarshSahuH/DSA-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -88,6 +89,7 @@
 | [1470-shuffle-the-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HarshSahuH/DSA-Questions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1929-concatenation-of-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1929-concatenation-of-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/HarshSahuH/DSA-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -180,6 +182,7 @@
 | [1143-longest-common-subsequence](https://github.com/HarshSahuH/DSA-Questions/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/HarshSahuH/DSA-Questions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HarshSahuH/DSA-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshSahuH/DSA-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -300,6 +303,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HarshSahuH/DSA-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2485-find-the-pivot-integer](https://github.com/HarshSahuH/DSA-Questions/tree/master/2485-find-the-pivot-integer) |
 ## Geometry

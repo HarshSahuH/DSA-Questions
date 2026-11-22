@@ -67,6 +67,7 @@
 | [0135-candy](https://github.com/HarshSahuH/DSA-Questions/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HarshSahuH/DSA-Questions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/HarshSahuH/DSA-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/HarshSahuH/DSA-Questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0416-partition-equal-subset-sum) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/HarshSahuH/DSA-Questions/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/HarshSahuH/DSA-Questions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshSahuH/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
@@ -126,6 +128,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/HarshSahuH/DSA-Questions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/HarshSahuH/DSA-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/HarshSahuH/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshSahuH/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -202,6 +205,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HarshSahuH/DSA-Questions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshSahuH/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/HarshSahuH/DSA-Questions/tree/master/0621-task-scheduler) |
 | [1267-count-servers-that-communicate](https://github.com/HarshSahuH/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
@@ -220,6 +224,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HarshSahuH/DSA-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/0912-sort-an-array) |
 ## Quickselect
@@ -371,4 +376,8 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/HarshSahuH/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HarshSahuH/DSA-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

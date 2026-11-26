@@ -21,6 +21,7 @@
 | [3360-stone-removal-game](https://github.com/HarshSahuH/DSA-Questions/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HarshSahuH/DSA-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/HarshSahuH/DSA-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HarshSahuH/DSA-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/HarshSahuH/DSA-Questions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/HarshSahuH/DSA-Questions/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers

@@ -18,6 +18,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HarshSahuH/DSA-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HarshSahuH/DSA-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2485-find-the-pivot-integer](https://github.com/HarshSahuH/DSA-Questions/tree/master/2485-find-the-pivot-integer) |
+| [3360-stone-removal-game](https://github.com/HarshSahuH/DSA-Questions/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HarshSahuH/DSA-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/HarshSahuH/DSA-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/HarshSahuH/DSA-Questions/tree/master/3870-count-commas-in-range) |
@@ -154,6 +155,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/HarshSahuH/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/HarshSahuH/DSA-Questions/tree/master/1929-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/HarshSahuH/DSA-Questions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/HarshSahuH/DSA-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
